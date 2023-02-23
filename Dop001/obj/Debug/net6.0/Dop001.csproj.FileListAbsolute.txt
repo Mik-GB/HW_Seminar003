@@ -1,0 +1,15 @@
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\obj\Debug\net6.0\Dop001.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\obj\Debug\net6.0\Dop001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\obj\Debug\net6.0\Dop001.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\obj\Debug\net6.0\Dop001.AssemblyInfo.cs
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\obj\Debug\net6.0\Dop001.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\bin\Debug\net6.0\Dop001.exe
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\bin\Debug\net6.0\Dop001.deps.json
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\bin\Debug\net6.0\Dop001.runtimeconfig.json
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\bin\Debug\net6.0\Dop001.dll
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\bin\Debug\net6.0\Dop001.pdb
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\obj\Debug\net6.0\Dop001.dll
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\obj\Debug\net6.0\refint\Dop001.dll
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\obj\Debug\net6.0\Dop001.pdb
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\obj\Debug\net6.0\Dop001.genruntimeconfig.cache
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar003\Dop001\obj\Debug\net6.0\ref\Dop001.dll
